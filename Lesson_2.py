@@ -4,13 +4,13 @@ with open("lesson_2.txt", "r") as f:
     for i in sp:
         print(i, end="")
     print("\n""*****************************************")
-    print("Количество символов\nв тексте:")
+    print("Количество символов\nв каждой строке:")
     lines = 0
     words = 0
     for i in sp:
         lines += 1
         s = i.split()
-        print(len(i.rstrip("\n")))
+        print("                - ", (len(i.rstrip("\n"))))
         for j in s:
             words += 1
     print("*****************************************")
