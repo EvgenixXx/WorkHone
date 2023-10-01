@@ -1,0 +1,59 @@
+.odd {
+    color: red;
+}
+
+.eve {
+    color: green;
+}
+
+.eee {
+    color: red;
+}
+
+.zzz {
+    color: blue;
+}
+
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: blue;
+}
+
+#navi1 {
+    color: coral;
+}
+
+#navi2 {
+    color: burlywood;
+}
+
+#navi3 {
+    color: chartreuse;
+}
+
+#navi4 {
+    color: aqua;
+}
+
+#navi5 {
+    color: cornflowerblue;
+}
+
+#navi6 {
+    color: red;
+}
+
+h1:hover {
+    font-size: 50px;
+}
+
+h2:hover {
+    font-size: 50px;
+}

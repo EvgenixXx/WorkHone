@@ -1,0 +1,38 @@
+body {
+    background-color: #c8fd01;
+}
+
+img {
+    width: 1500px;
+    height: 500px;
+}
+
+table {
+    width: 500px;
+}
+
+tr td {
+    background-color: #00f8d5;
+}
+
+th {
+    background-color: #00f4d3;
+    text-align: left;
+}
+
+p {
+    font: bold 25px "Times New Roman";
+}
+
+h1 {
+    text-align: right;
+}
+
+h2 {
+    text-align: center;
+    width: 300px;
+}
+
+td {
+    text-align: center;
+}
