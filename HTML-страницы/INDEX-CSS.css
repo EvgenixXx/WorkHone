@@ -1,0 +1,45 @@
+body {
+    background-color: #cbdcdc;
+}
+
+table {
+    width: 400px;
+    height: 400px;
+}
+
+div {
+    color: #070707;
+    font-weight: 900;
+    font-family: "Times New Roman";
+    text-align: justify;
+}
+
+form {
+    background-color: blue;
+}
+
+input {
+
+}
+
+form input {
+    background-image: url("пыђр.jpg");
+    background-size: cover;
+}
+
+.eee, .xxx {
+    background-color: red;
+}
+
+.eve, .zzz {
+    background-color: blue;
+}
+
+.rrr, .odd {
+    background-color: coral;
+}
+
+.ggg {
+    text-align: center;
+    text-sty
+}
